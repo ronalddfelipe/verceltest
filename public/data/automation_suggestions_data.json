@@ -1,0 +1,85 @@
+{
+  "suggestion_data": [
+    {
+      "id": 1,
+      "type": "Boas-vindas",
+      "trigger": "Primeiro contato",
+      "template": "Olá! 👋 Bem-vindo(a) à CareerCraft Europe! Somos especializados em ajudar profissionais brasileiros a conquistarem oportunidades na Europa. Como posso ajudar na sua jornada profissional?",
+      "effectiveness": 25.3,
+      "recommended": true
+    },
+    {
+      "id": 2,
+      "type": "Resposta a dúvida sobre currículo",
+      "trigger": "Menção a \"currículo\", \"CV\", \"resume\"",
+      "template": "Entendo sua preocupação com o currículo! O formato europeu é diferente do brasileiro e precisa estar adaptado para os sistemas ATS. Nosso serviço especializado pode ajudar a otimizar seu CV para aumentar suas chances. Gostaria de saber mais sobre como podemos ajudar?",
+      "effectiveness": 42.7,
+      "recommended": true
+    },
+    {
+      "id": 3,
+      "type": "Resposta a dúvida sobre visto",
+      "trigger": "Menção a \"visto\", \"documentação\", \"permissão\"",
+      "template": "Sobre sua dúvida de visto, muitas empresas na Europa patrocinam o visto de trabalho para profissionais qualificados. Com um currículo bem estruturado e preparação adequada para entrevistas, suas chances aumentam significativamente. Posso explicar como nosso serviço ajuda nesse processo?",
+      "effectiveness": 38.5,
+      "recommended": true
+    },
+    {
+      "id": 4,
+      "type": "Follow-up após compartilhamento de story",
+      "trigger": "Após envio de story sem resposta por 24h",
+      "template": "Notei que compartilhei um story com você recentemente. Ele aborda justamente questões importantes sobre [tema]. Tem alguma dúvida específica sobre esse assunto que eu possa esclarecer?",
+      "effectiveness": 18.2,
+      "recommended": true
+    },
+    {
+      "id": 5,
+      "type": "Reengajamento de conversa inativa",
+      "trigger": "Sem interação por 7+ dias após resposta inicial",
+      "template": "Olá novamente! Estou acompanhando sua jornada e gostaria de saber se ainda tem interesse em oportunidades na Europa. Temos novidades sobre o mercado de [área] que podem ser relevantes para você. Posso compartilhar?",
+      "effectiveness": 15.8,
+      "recommended": true
+    }
+  ],
+  "workflow_data": [
+    {
+      "id": 1,
+      "name": "Fluxo de Boas-vindas e Qualificação",
+      "steps": [
+        "Mensagem de boas-vindas personalizada",
+        "Pergunta sobre área de atuação",
+        "Compartilhamento de conteúdo relevante para a área",
+        "Pergunta sobre interesse em migração",
+        "Oferta de análise gratuita de currículo"
+      ],
+      "conversion_rate": 8.7,
+      "avg_completion_time": 3.2
+    },
+    {
+      "id": 2,
+      "name": "Fluxo de Reengajamento de Leads Frios",
+      "steps": [
+        "Mensagem de reengajamento com novidade do mercado",
+        "Compartilhamento de caso de sucesso recente",
+        "Pergunta sobre obstáculos atuais",
+        "Oferta de solução específica para o obstáculo",
+        "Convite para call gratuita de 15 minutos"
+      ],
+      "conversion_rate": 5.3,
+      "avg_completion_time": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Fluxo de Conversão para Dúvidas de Currículo",
+      "steps": [
+        "Resposta detalhada sobre problema específico do currículo",
+        "Compartilhamento de exemplo de antes/depois",
+        "Explicação do processo de otimização",
+        "Apresentação de pacotes de serviço",
+        "Oferta de desconto por tempo limitado"
+      ],
+      "conversion_rate": 12.5,
+      "avg_completion_time": 2.1
+    }
+  ]
+}

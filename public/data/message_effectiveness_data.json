@@ -1,0 +1,111 @@
+{
+  "message_data": [
+    {
+      "id": 1,
+      "type": "Boas-vindas",
+      "effectiveness": 8.2,
+      "response_rate": 15.4,
+      "conversion_rate": 2.1,
+      "avg_response_time": 48.3,
+      "example": "Olá! 🎉 Bem-vindo à comunidade CareerCraft! Para celebrar a sua chegada, gostaríamos de oferecer uma análise gratuita do seu currículo..."
+    },
+    {
+      "id": 2,
+      "type": "Pergunta sobre experiência",
+      "effectiveness": 12.5,
+      "response_rate": 65.2,
+      "conversion_rate": 4.8,
+      "avg_response_time": 24.7,
+      "example": "Você trabalha na área de tecnologia? Temos percebido que profissionais deste setor têm conseguido ótimas oportunidades aqui na Europa..."
+    },
+    {
+      "id": 3,
+      "type": "Compartilhamento de Story",
+      "effectiveness": 15.9,
+      "response_rate": 22.3,
+      "conversion_rate": 5.2,
+      "avg_response_time": 72.1,
+      "example": "[Story compartilhado sobre dicas de entrevista]"
+    },
+    {
+      "id": 4,
+      "type": "Compartilhamento de Post",
+      "effectiveness": 8.7,
+      "response_rate": 18.5,
+      "conversion_rate": 3.4,
+      "avg_response_time": 96.5,
+      "example": "[Post compartilhado sobre mercado de trabalho europeu]"
+    },
+    {
+      "id": 5,
+      "type": "Compartilhamento de Reel",
+      "effectiveness": 10.0,
+      "response_rate": 20.1,
+      "conversion_rate": 3.8,
+      "avg_response_time": 84.2,
+      "example": "[Reel compartilhado com depoimento de cliente]"
+    },
+    {
+      "id": 6,
+      "type": "Resposta a dúvida sobre currículo",
+      "effectiveness": 18.3,
+      "response_rate": 72.5,
+      "conversion_rate": 8.9,
+      "avg_response_time": 12.4,
+      "example": "Entendo sua preocupação com o currículo. O formato europeu é diferente do brasileiro. Nosso serviço especializado pode ajudar a adaptar seu CV para o padrão ATS..."
+    },
+    {
+      "id": 7,
+      "type": "Resposta a dúvida sobre visto",
+      "effectiveness": 22.1,
+      "response_rate": 68.7,
+      "conversion_rate": 9.5,
+      "avg_response_time": 14.8,
+      "example": "Sobre sua dúvida de visto, muitas empresas aqui na Holanda patrocinam o visto de trabalho para profissionais qualificados. Com um currículo bem estruturado, suas chances aumentam..."
+    }
+  ],
+  "effectiveness_data": [
+    {
+      "name": "Boas-vindas",
+      "effectiveness": 8.2,
+      "response": 15.4,
+      "conversion": 2.1
+    },
+    {
+      "name": "Pergunta sobre experiência",
+      "effectiveness": 12.5,
+      "response": 65.2,
+      "conversion": 4.8
+    },
+    {
+      "name": "Compartilhamento de Story",
+      "effectiveness": 15.9,
+      "response": 22.3,
+      "conversion": 5.2
+    },
+    {
+      "name": "Compartilhamento de Post",
+      "effectiveness": 8.7,
+      "response": 18.5,
+      "conversion": 3.4
+    },
+    {
+      "name": "Compartilhamento de Reel",
+      "effectiveness": 10.0,
+      "response": 20.1,
+      "conversion": 3.8
+    },
+    {
+      "name": "Resposta a dúvida sobre currículo",
+      "effectiveness": 18.3,
+      "response": 72.5,
+      "conversion": 8.9
+    },
+    {
+      "name": "Resposta a dúvida sobre visto",
+      "effectiveness": 22.1,
+      "response": 68.7,
+      "conversion": 9.5
+    }
+  ]
+}

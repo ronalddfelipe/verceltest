@@ -1,0 +1,103 @@
+{
+  "stats": {
+    "total_conversations": 1299,
+    "total_conversions": 1,
+    "avg_response_time": 86.54365537790278,
+    "unanswered_count": 115,
+    "conversion_rate": 0.08,
+    "unanswered_rate": 8.85
+  },
+  "conversion_data": [
+    {
+      "name": "Jan",
+      "interactions": 65,
+      "conversions": 4
+    },
+    {
+      "name": "Fev",
+      "interactions": 78,
+      "conversions": 7
+    },
+    {
+      "name": "Mar",
+      "interactions": 98,
+      "conversions": 5
+    },
+    {
+      "name": "Abr",
+      "interactions": 120,
+      "conversions": 10
+    },
+    {
+      "name": "Mai",
+      "interactions": 150,
+      "conversions": 12
+    }
+  ],
+  "attachment_data": [
+    {
+      "name": "post",
+      "value": 1344
+    },
+    {
+      "name": "story",
+      "value": 63
+    },
+    {
+      "name": "reel",
+      "value": 590
+    },
+    {
+      "name": "link_externo",
+      "value": 105
+    },
+    {
+      "name": "perfil",
+      "value": 3
+    }
+  ],
+  "effectiveness_data": [
+    {
+      "name": "post",
+      "rate": 0.08705357142857142
+    },
+    {
+      "name": "story",
+      "rate": 0.15873015873015872
+    },
+    {
+      "name": "reel",
+      "rate": 0.1
+    },
+    {
+      "name": "link_externo",
+      "rate": 0.12380952380952381
+    },
+    {
+      "name": "perfil",
+      "rate": 0.0
+    }
+  ],
+  "pain_points_data": [
+    {
+      "name": "Currículo",
+      "count": 45
+    },
+    {
+      "name": "Entrevista",
+      "count": 32
+    },
+    {
+      "name": "Salário",
+      "count": 28
+    },
+    {
+      "name": "Visto",
+      "count": 25
+    },
+    {
+      "name": "Idioma",
+      "count": 20
+    }
+  ]
+}

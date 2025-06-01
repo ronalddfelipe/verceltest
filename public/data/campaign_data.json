@@ -1,0 +1,284 @@
+{
+  "campaigns": [
+    {
+      "id": 42,
+      "date": "2024-09-02",
+      "link": "https://www.instagram.com/p/C_X2EDLNBzX/",
+      "type": "post",
+      "recipients": 104,
+      "responses": 18,
+      "conversions": 4,
+      "conversion_rate": 0.038461538461538464,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 37,
+      "date": "2024-08-13",
+      "link": "https://www.instagram.com/reel/C-m6s5vOQMH/?id=3433689938266751751_66693816660",
+      "type": "reel",
+      "recipients": 83,
+      "responses": 14,
+      "conversions": 9,
+      "conversion_rate": 0.10843373493975904,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 28,
+      "date": "2024-08-02",
+      "link": "https://www.instagram.com/p/C-KPnTLszDU/?carousel_share_child_media_id=3425619128578216001_66693816660",
+      "type": "post",
+      "recipients": 82,
+      "responses": 9,
+      "conversions": 6,
+      "conversion_rate": 0.07317073170731707,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 38,
+      "date": "2024-08-14",
+      "link": "https://www.instagram.com/p/C-pJJ_uPo59/?carousel_share_child_media_id=3434316417950632551_66693816660",
+      "type": "post",
+      "recipients": 76,
+      "responses": 14,
+      "conversions": 9,
+      "conversion_rate": 0.11842105263157894,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 15,
+      "date": "2024-06-15",
+      "link": "https://www.instagram.com/reel/C8O3PuEqI_l/?id=3390890542277103589_66693816660",
+      "type": "reel",
+      "recipients": 73,
+      "responses": 12,
+      "conversions": 9,
+      "conversion_rate": 0.1232876712328767,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 17,
+      "date": "2024-07-21",
+      "link": "https://www.instagram.com/p/C9r_NaZpcRY/?carousel_share_child_media_id=3417102727181123484_66693816660",
+      "type": "post",
+      "recipients": 71,
+      "responses": 9,
+      "conversions": 5,
+      "conversion_rate": 0.07042253521126761,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 12,
+      "date": "2024-06-12",
+      "link": "https://www.instagram.com/reel/C8Ej_G2sP5n/?id=3387991088004398695_66693816660",
+      "type": "reel",
+      "recipients": 70,
+      "responses": 9,
+      "conversions": 5,
+      "conversion_rate": 0.07142857142857142,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 34,
+      "date": "2024-08-09",
+      "link": "https://www.instagram.com/p/C9o--ubJR-i/",
+      "type": "post",
+      "recipients": 70,
+      "responses": 11,
+      "conversions": 7,
+      "conversion_rate": 0.1,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 14,
+      "date": "2024-06-13",
+      "link": "https://www.instagram.com/reel/C8JtoalJn0K/?id=3389440883985644810_66693816660",
+      "type": "reel",
+      "recipients": 69,
+      "responses": 8,
+      "conversions": 4,
+      "conversion_rate": 0.057971014492753624,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 13,
+      "date": "2024-06-13",
+      "link": "https://www.instagram.com/p/C8JfzlxBDEO/",
+      "type": "post",
+      "recipients": 68,
+      "responses": 8,
+      "conversions": 4,
+      "conversion_rate": 0.058823529411764705,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 9,
+      "date": "2024-06-07",
+      "link": "https://www.instagram.com/p/C73eRjlhuwB/",
+      "type": "post",
+      "recipients": 66,
+      "responses": 8,
+      "conversions": 4,
+      "conversion_rate": 0.06060606060606061,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 16,
+      "date": "2024-07-20",
+      "link": "https://www.instagram.com/p/C9o--ubJR-i/",
+      "type": "post",
+      "recipients": 64,
+      "responses": 9,
+      "conversions": 5,
+      "conversion_rate": 0.078125,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 11,
+      "date": "2024-06-11",
+      "link": "https://www.instagram.com/reel/C8B_OXEhenp/?id=3387266458534144489_66693816660",
+      "type": "reel",
+      "recipients": 63,
+      "responses": 10,
+      "conversions": 6,
+      "conversion_rate": 0.09523809523809523,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 10,
+      "date": "2024-06-07",
+      "link": "https://www.instagram.com/p/C76DEloKYh-/?carousel_share_child_media_id=3385031579342047358_66693816660",
+      "type": "post",
+      "recipients": 60,
+      "responses": 9,
+      "conversions": 5,
+      "conversion_rate": 0.08333333333333333,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 6,
+      "date": "2024-06-03",
+      "link": "https://www.instagram.com/p/C7wX69kIoRF/",
+      "type": "post",
+      "recipients": 59,
+      "responses": 9,
+      "conversions": 5,
+      "conversion_rate": 0.0847457627118644,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 2,
+      "date": "2024-05-29",
+      "link": "https://www.instagram.com/p/C7ju3lbCYO9/",
+      "type": "post",
+      "recipients": 53,
+      "responses": 8,
+      "conversions": 2,
+      "conversion_rate": 0.03773584905660377,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 3,
+      "date": "2024-06-01",
+      "link": "https://www.instagram.com/p/C7qmQzPBrL2/?carousel_share_child_media_id=3380682735974055291_66693816660",
+      "type": "post",
+      "recipients": 52,
+      "responses": 9,
+      "conversions": 4,
+      "conversion_rate": 0.07692307692307693,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 7,
+      "date": "2024-06-04",
+      "link": "https://www.instagram.com/p/C7wm0rjxUlS/?carousel_share_child_media_id=3382374048675006879_66693816660",
+      "type": "post",
+      "recipients": 52,
+      "responses": 8,
+      "conversions": 4,
+      "conversion_rate": 0.07692307692307693,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 4,
+      "date": "2024-06-01",
+      "link": "https://instagram.com/stories/careercraft.europe/3380856309160124796",
+      "type": "story",
+      "recipients": 51,
+      "responses": 8,
+      "conversions": 3,
+      "conversion_rate": 0.058823529411764705,
+      "description": "Descrição da campanha"
+    },
+    {
+      "id": 18,
+      "date": "2024-07-22",
+      "link": "https://www.instagram.com/reel/C9vKZyQOHX_/?id=3417996394608752127_66693816660",
+      "type": "reel",
+      "recipients": 46,
+      "responses": 6,
+      "conversions": 4,
+      "conversion_rate": 0.08695652173913043,
+      "description": "Descrição da campanha"
+    }
+  ],
+  "by_type_data": [
+    {
+      "name": "post",
+      "count": 29,
+      "responses": 7.103448275862069,
+      "conversions": 4.0,
+      "conversion_rate": 0.09362670596412183
+    },
+    {
+      "name": "reel",
+      "count": 12,
+      "responses": 7.583333333333333,
+      "conversions": 4.916666666666667,
+      "conversion_rate": 0.10528018575981722
+    },
+    {
+      "name": "story",
+      "count": 1,
+      "responses": 8.0,
+      "conversions": 3.0,
+      "conversion_rate": 0.058823529411764705
+    }
+  ],
+  "by_day_data": [
+    {
+      "name": "Segunda",
+      "count": 5,
+      "conversion_rate": 3.1
+    },
+    {
+      "name": "Terça",
+      "count": 8,
+      "conversion_rate": 3.8
+    },
+    {
+      "name": "Quarta",
+      "count": 6,
+      "conversion_rate": 2.9
+    },
+    {
+      "name": "Quinta",
+      "count": 5,
+      "conversion_rate": 3.2
+    },
+    {
+      "name": "Sexta",
+      "count": 7,
+      "conversion_rate": 3.5
+    },
+    {
+      "name": "Sábado",
+      "count": 10,
+      "conversion_rate": 4.7
+    },
+    {
+      "name": "Domingo",
+      "count": 4,
+      "conversion_rate": 2.8
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "attachment_data": [
+    {
+      "id": 1,
+      "type": "post",
+      "count": 1344,
+      "response_rate": 15.476190476190476,
+      "conversion_rate": 0.08705357142857142,
+      "avg_response_time": 172.43827857905976,
+      "most_effective_context": "com_mensagem_antes",
+      "description": "Posts regulares do feed"
+    },
+    {
+      "id": 2,
+      "type": "story",
+      "count": 63,
+      "response_rate": 28.571428571428573,
+      "conversion_rate": 0.15873015873015872,
+      "avg_response_time": 213.74703703703705,
+      "most_effective_context": "com_mensagem_antes",
+      "description": "Stories temporários"
+    },
+    {
+      "id": 3,
+      "type": "reel",
+      "count": 590,
+      "response_rate": 15.423728813559322,
+      "conversion_rate": 0.1,
+      "avg_response_time": 195.54388583638573,
+      "most_effective_context": "com_mensagem_antes",
+      "description": "Vídeos curtos (Reels)"
+    },
+    {
+      "id": 4,
+      "type": "link_externo",
+      "count": 105,
+      "response_rate": 61.904761904761905,
+      "conversion_rate": 0.12380952380952381,
+      "avg_response_time": 19.389376068376084,
+      "most_effective_context": "com_mensagem_antes",
+      "description": "Links para sites externos"
+    },
+    {
+      "id": 5,
+      "type": "perfil",
+      "count": 3,
+      "response_rate": 33.333333333333336,
+      "conversion_rate": 0.0,
+      "avg_response_time": 1.2602777777777778,
+      "most_effective_context": "com_mensagem_antes",
+      "description": "Compartilhamento de perfis"
+    }
+  ],
+  "context_data": [
+    {
+      "name": "Isolado",
+      "count": 1655,
+      "response_rate": 15.2,
+      "conversion_rate": 7.8
+    },
+    {
+      "name": "Com mensagem antes",
+      "count": 253,
+      "response_rate": 28.5,
+      "conversion_rate": 12.3
+    },
+    {
+      "name": "Com mensagem depois",
+      "count": 145,
+      "response_rate": 24.1,
+      "conversion_rate": 10.5
+    },
+    {
+      "name": "Ambos",
+      "count": 52,
+      "response_rate": 32.7,
+      "conversion_rate": 15.4
+    }
+  ],
+  "time_data": [
+    {
+      "hour": "08-10",
+      "count": 198,
+      "response_rate": 22.3,
+      "conversion_rate": 9.8
+    },
+    {
+      "hour": "10-12",
+      "count": 521,
+      "response_rate": 25.7,
+      "conversion_rate": 11.2
+    },
+    {
+      "hour": "12-14",
+      "count": 307,
+      "response_rate": 18.9,
+      "conversion_rate": 8.5
+    },
+    {
+      "hour": "14-16",
+      "count": 539,
+      "response_rate": 20.4,
+      "conversion_rate": 9.1
+    },
+    {
+      "hour": "16-18",
+      "count": 91,
+      "response_rate": 15.3,
+      "conversion_rate": 6.7
+    },
+    {
+      "hour": "18-20",
+      "count": 185,
+      "response_rate": 19.8,
+      "conversion_rate": 8.9
+    },
+    {
+      "hour": "20-22",
+      "count": 212,
+      "response_rate": 17.5,
+      "conversion_rate": 7.8
+    },
+    {
+      "hour": "22-08",
+      "count": 72,
+      "response_rate": 12.4,
+      "conversion_rate": 5.3
+    }
+  ],
+  "pie_data": [
+    {
+      "name": "post",
+      "value": 1344
+    },
+    {
+      "name": "story",
+      "value": 63
+    },
+    {
+      "name": "reel",
+      "value": 590
+    },
+    {
+      "name": "link_externo",
+      "value": 105
+    },
+    {
+      "name": "perfil",
+      "value": 3
+    }
+  ]
+}

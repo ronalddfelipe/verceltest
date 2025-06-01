@@ -1,0 +1,122 @@
+{
+  "journey_data": [
+    {
+      "id": 1,
+      "stage": "Primeiro Contato",
+      "leads_count": 1299,
+      "conversion_rate": 100,
+      "avg_time": 0,
+      "next_stage": "Resposta Inicial"
+    },
+    {
+      "id": 2,
+      "stage": "Resposta Inicial",
+      "leads_count": 383,
+      "conversion_rate": 29.5,
+      "avg_time": 153.4,
+      "next_stage": "Engajamento Contínuo"
+    },
+    {
+      "id": 3,
+      "stage": "Engajamento Contínuo",
+      "leads_count": 215,
+      "conversion_rate": 16.6,
+      "avg_time": 72.3,
+      "next_stage": "Demonstração de Interesse"
+    },
+    {
+      "id": 4,
+      "stage": "Demonstração de Interesse",
+      "leads_count": 128,
+      "conversion_rate": 9.9,
+      "avg_time": 48.2,
+      "next_stage": "Solicitação de Informações"
+    },
+    {
+      "id": 5,
+      "stage": "Solicitação de Informações",
+      "leads_count": 82,
+      "conversion_rate": 6.3,
+      "avg_time": 24.5,
+      "next_stage": "Envio de CV"
+    },
+    {
+      "id": 6,
+      "stage": "Envio de CV",
+      "leads_count": 38,
+      "conversion_rate": 2.9,
+      "avg_time": 12.8,
+      "next_stage": "Cliente"
+    }
+  ],
+  "paths_data": [
+    {
+      "id": 1,
+      "path": "Boas-vindas → Story → Resposta → Pergunta sobre serviço → Envio de CV",
+      "count": 12,
+      "conversion_rate": 31.6,
+      "avg_time_to_conversion": 5.2
+    },
+    {
+      "id": 2,
+      "path": "Boas-vindas → Post → Pergunta sobre preço → Resposta → Envio de CV",
+      "count": 8,
+      "conversion_rate": 21.1,
+      "avg_time_to_conversion": 7.8
+    },
+    {
+      "id": 3,
+      "path": "Boas-vindas → Reel → Resposta → Envio de CV",
+      "count": 6,
+      "conversion_rate": 15.8,
+      "avg_time_to_conversion": 3.5
+    },
+    {
+      "id": 4,
+      "path": "Pergunta direta → Resposta detalhada → Envio de CV",
+      "count": 5,
+      "conversion_rate": 13.2,
+      "avg_time_to_conversion": 2.1
+    },
+    {
+      "id": 5,
+      "path": "Boas-vindas → Sem resposta → Campanha → Resposta → Envio de CV",
+      "count": 4,
+      "conversion_rate": 10.5,
+      "avg_time_to_conversion": 12.4
+    },
+    {
+      "id": 6,
+      "path": "Outros caminhos",
+      "count": 3,
+      "conversion_rate": 7.9,
+      "avg_time_to_conversion": 9.6
+    }
+  ],
+  "funnel_data": [
+    {
+      "name": "Primeiro Contato",
+      "value": 1299
+    },
+    {
+      "name": "Resposta Inicial",
+      "value": 383
+    },
+    {
+      "name": "Engajamento Contínuo",
+      "value": 215
+    },
+    {
+      "name": "Demonstração de Interesse",
+      "value": 128
+    },
+    {
+      "name": "Solicitação de Informações",
+      "value": 82
+    },
+    {
+      "name": "Envio de CV",
+      "value": 38
+    }
+  ]
+}
